@@ -2,7 +2,7 @@
 
 The content here accompanies the following blog post:
 
-## Not Yet Posted
+### https://methodmatters.github.io/country-vs-rb-hiphop-lyrics-part-3-empath/
 
 The code is in the "Scripts" directory of this repo.
 
